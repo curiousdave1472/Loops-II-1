@@ -6,3 +6,6 @@ function countDown () {
 }
 
 countDown()
+if (i===0){
+    console.log("Blast Off")
+}
